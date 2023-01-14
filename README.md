@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
+[![Website Badge](https://img.shields.io/badge/Website-Robotika-smkn1.github.io-blue?style=for-the-badge)](https://robotika-smkn1.github.io/)
   
 
 
