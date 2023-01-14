@@ -42,7 +42,7 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=robotika-smkn1&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
 </div>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=robotika-smkn1&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robotika-smkn1&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
   
