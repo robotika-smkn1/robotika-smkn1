@@ -16,12 +16,9 @@
   
 
 
-
-<p align="center">
     <a href="https://discord.com/users/943374631644045363">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Slackes%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Slackes">
-   <img alt="Github" src="https://img.shields.io/github/followers/Slackes?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+ 
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
