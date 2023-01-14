@@ -6,7 +6,7 @@
 <p align="center">
 
 
-![Slackes](https://user-images.githubusercontent.com/94861415/208275918-bccfdeb0-31a4-44b7-99aa-499a3e51a2bb.png)
+![Robotika](https://camo.githubusercontent.com/a7441f7cf4d3b309f63559cd83da82aa466c41829991a1a87e3cdddd320c8aae/68747470733a2f2f692e706f7374696d672e63632f74525a77307851342f6c6f676f2d72656d6f766562672d707265766965772e706e67)
 
 
 
