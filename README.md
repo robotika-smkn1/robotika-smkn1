@@ -77,7 +77,7 @@
 <h2 align="center">Instagram Profile</h2><br>
   <p align="center">
     <a href="https://www.instagram.com/robotika.smkn1kotabekasi/">
-        <img title="Fnoberz server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Instagram" alt="Instagram src="#"/>
     </a>
 </p>
 
@@ -86,4 +86,4 @@
  </div>
  
   
-<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="#" width = "100%"/></a>
+<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
