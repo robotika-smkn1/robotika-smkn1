@@ -40,7 +40,7 @@
 </p>
 
 
-<div>
+<div style="center";>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=robotika-smkn1&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
 </div>
 <p align="center">
