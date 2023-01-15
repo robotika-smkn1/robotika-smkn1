@@ -77,7 +77,7 @@
 <h2 align="center">Instagram Profile</h2><br>
   <p align="center">
     <a href="https://www.instagram.com/robotika.smkn1kotabekasi/">
-        <img title="Instagram" alt="Instagram src="#"/>
+        <img title="Instagram" alt="Instagram src="https://i.postimg.cc/mgwZqtjx/po.jpg"/>
     </a>
 </p>
 
