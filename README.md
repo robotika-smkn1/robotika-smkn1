@@ -70,7 +70,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Robotika.smkn1-%23282a36?style=for-the-badge&logo=Telegram)](https://www.instagram.com/robotika.smkn1kotabekasi/)
 <a target="_blank" href="https://www.instagram.com/robotika.smkn1kotabekasi/"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-Robotika.smkn1kotabekasi-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
+[![YouTube Channel](https://img.shields.io/badge/-Robotika.smkn1kotabekasi-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCTEh-0puLMcDPFjp69g9ufg)
 
 
 
