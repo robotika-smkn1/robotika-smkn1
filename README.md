@@ -82,7 +82,7 @@
 </p>
 
   <p align="center">
-  <i>&nbsp;"Too many of us are not living our dreams because we are living our fears...."</i> 
+  <i>&nbsp;"Inovasi Tanpa Batas"</i> 
  </div>
  
   
